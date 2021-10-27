@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://vinincosta.github.io/Calculadora/style.css">
+    <script src="https://vinincosta.github.io/Calculadora/script.js"></script>
     <title>Calculadora</title>
 </head>
 <body>
@@ -44,6 +45,6 @@
             </table>
         </div>
     </div>
-    <script src="https://vinincosta.github.io/Calculadora/script.js"></script>
+    
 </body>
 </html>
