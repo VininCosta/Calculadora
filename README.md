@@ -1,10 +1,10 @@
-
 <html>
 <head>
-    <title>Calculadora</title>
+    <title>
+        Calculadora
+    </title>
     <link href="https://vinincosta.github.io/Calculadora/style.css" rel="stylesheet" />
-    <script src="https://vinincosta.github.io/Calculadora/script.js"></script>
-    
+    <script src="https://vinincosta.github.io/Calculadora/script.js"></script>    
 </head>
 <body>
     <div class="fundo">
